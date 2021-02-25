@@ -5,4 +5,7 @@ h1, p {
 }
 h1{
   font-size: 100px;
+  background-color: rgb(241, 241, 60);
+  padding: 0.5rem;
+  margin-block-end: 5%;
 }
